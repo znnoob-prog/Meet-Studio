@@ -1,0 +1,6 @@
+{
+  "name": "Meet Studio",
+  "description": "An improved, studio-grade Google Meet workspace for pre-call camera and audio checks, custom room configuration, live call framing, and conference transcripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
